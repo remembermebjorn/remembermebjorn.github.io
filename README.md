@@ -18,7 +18,7 @@ This photo was taken outside my apartment on a path I’ve walked hundreds of ti
 
 
 This photo had me experimenting with composition a little bit more. The forest outside the nest has always felt very liminal to me, in part because it separates my home from the location of most of my classes. That means every morning, for nearly two years, I’ve walked across this forest on my way to class, every weekday, multiple days a week. Taking this photo with the sun peering out a small channel in the center almost made it look like a small portal to another world; and reminded me that the transition between the natural and artificial is a beautiful point of liminality as well; one that poets such as Margaret Atwood have delved into extensively.
-<img src="images/3.jpeg" alt="" width="500" height="300">
+<img src="images/3.jpeg" alt="" width="500">
 
 
 I remember taking this photo after a late night exam at ICICS. Notably, it was an hour after the pro-Iranian peace protests had occurred on campus, judging by the Iranian flag on the cairn in the background. The blur in the photo caused by my movement makes this image to me look as if it’s dancing. Like all the other images here, this image evokes strong emotions in me, despite the fact that visually, it’s fairly simple. It’s a photo of a feeling. Of a smell, of the cold in the air, and of my mind in that exact moment. 
@@ -60,4 +60,9 @@ I remember taking this photo. I recently started my co-op. I was dealing with so
 
 
 This photo brings back so many memories for me. -My knee had been badly injured. As part of my physiotherapy, and with a strong need to condition my knee, because I couldn’t do anything so intensive, I decided to walk from Coquitlam, to Science World. I think it was a roughly ~5 hour walk. I remember passing through Holdom, and god knows where this picture was taken. I wanted to at least play a bit of Pokemon Go, but I couldn’t really even. My mind wouldn’t let me rest. When I see this picture, I feel an emotion I don’t think I’ve ever felt since. Something between manic, free, calm, and scared.
+
 <img src="images/13.jpeg" alt="" width="500">
+
+I think the power of the photos for me personally, is that they allow me to remember beautiful moments that would otherwise be forgotten, and re-experience feelings that would otherwise be lost. To quote author Robin Wall Kimmerer in her book Braiding Sweetgrass,
+
+> Breathe it in, and you start to remember you didn't know you'd forgotten
